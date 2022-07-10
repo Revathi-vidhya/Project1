@@ -9,4 +9,8 @@ public static void main(String[] args) {
 	GitTest1 g = new GitTest1();
 	g.test1();
 }
+private void test4() {
+	// TODO Auto-generated method stub
+System.out.println("test4");
+}
 }
